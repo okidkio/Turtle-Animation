@@ -19,4 +19,4 @@ This project creates a vibrant, colorful spiral pattern using Python's turtle mo
   "python turtle_spiral.py"
 
 ## Preview
-![Screenshot](ss.jpg)
+![Alt text](ss.png)
