@@ -1,0 +1,11 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE/editor files
+.vscode/
+
+# Images/logs/temp
+*.png
+*.log
+*.tmp
